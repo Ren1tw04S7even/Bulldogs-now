@@ -17,3 +17,8 @@ class ViewController: UIViewController {
 
 }
 
+//HELLO
+
+func paper() -> String {
+    return "HELLO"
+}
